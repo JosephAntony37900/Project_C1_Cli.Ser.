@@ -1,5 +1,6 @@
 module github.com/JosephAntony37900/ArquitecturaHexagonal
 
+
 go 1.23.4
 
 require (
